@@ -36,34 +36,21 @@ Sou um profissional com ampla experiência em **gestão estratégica**, **análi
 - **ETL & Pipelines:** Processos de extração, transformação e carga  
 - **Metodologias:** Scrum, Kanban, gestão de equipes ágeis  
 
-## 🗂️ Repositórios em Destaque
+## Let's Connect
 
-> Todos os projetos abaixo foram desenvolvidos com **Power BI**, utilizando **planilhas Excel** e dados extraídos de **MySQL**. Em todos, houve a aplicação de processos de **ETL** para limpeza e transformação das informações.
+<p align="left">
+  <!-- Badge LinkedIn -->
+  <a href="https://www.linkedin.com/in/JohnnyPessoli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-1. **[Controle de Estoque](#)**  
-   - **Objetivo:** Gerenciar e acompanhar níveis de estoque em tempo real.  
-   - **Tecnologias:** Power BI, Excel, MySQL.  
-   - **Destaque:** Redução de erros de contagem e maior previsibilidade de reposição.
+  <!-- Badge Gmail -->
+  <a href="mailto:pessoly@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 
-2. **[Dashboard Comercial](#)**  
-   - **Objetivo:** Fornecer uma visão geral de vendas, metas e oportunidades.  
-   - **Tecnologias:** Power BI, Excel, MySQL.  
-   - **Destaque:** Melhora na tomada de decisão comercial e identificação de produtos com maior potencial de crescimento.
-
-3. **[Dashboard Financeiro](#)**  
-   - **Objetivo:** Monitorar indicadores financeiros, como faturamento, custos e fluxo de caixa.  
-   - **Tecnologias:** Power BI, Excel, MySQL.  
-   - **Destaque:** Visão consolidada das finanças, auxiliando no planejamento e redução de custos.
-
-4. **[Relação de Compras/PJ](#)**  
-   - **Objetivo:** Acompanhar compras realizadas com fornecedores PJ, incluindo status de pagamento.  
-   - **Tecnologias:** Power BI, Excel, MySQL.  
-   - **Destaque:** Maior poder de negociação e controle sobre prazos de pagamento.
-
-*(Adicione links reais para cada repositório ou deixe em branco se ainda não estiverem disponíveis.)*
-
-## 🌟 Como Foram Desenvolvidos
-
-- **ETL:** Em cada projeto, foram aplicadas rotinas de limpeza e integração de dados no Power BI, unificando informações de Excel e MySQL.  
-- **Modelagem:** Construção de relacionamentos entre tabelas para garantir consistência nos relatórios.  
-- **Visualização:** Uso de gráficos dinâmicos, segmentações e KPIs para facilit
+  <!-- Badge WhatsApp -->
+  <a href="https://wa.me/49991315772" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+</p>
