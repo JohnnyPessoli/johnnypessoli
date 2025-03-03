@@ -6,7 +6,7 @@
 <h1 align="center">Olá, eu sou Johnny Pessoli!</h1>
 
 <p align="center">
-  <strong>CEO da Dactai | MBA em Tecnologia para Negócios (AI, Data Science e Big Data)</strong>
+  <strong>Este é meu repositório de Análise e Ciência de Dados.</strong>
 </p>
 
 ---
