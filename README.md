@@ -40,7 +40,7 @@ Sou um profissional com ampla experiência em **gestão estratégica**, **análi
 
 <p align="left">
   <!-- Badge LinkedIn -->
-  <a href="https://www.linkedin.com/in/JohnnyPessoli" target="_blank">
+  <a href="https://www.linkedin.com/in/johnny-pessoli" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
@@ -50,7 +50,7 @@ Sou um profissional com ampla experiência em **gestão estratégica**, **análi
   </a>
 
   <!-- Badge WhatsApp -->
-  <a href="https://wa.me/49991315772" target="_blank">
+  <a href="https://wa.me/5549991315772" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </p>
