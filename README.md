@@ -54,3 +54,15 @@ Sou um profissional com ampla experiência em **gestão estratégica**, **análi
     <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnnyPessoli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyPessoli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://media1.tenor.com/m/uuQSGG7Bfc0AAAAd/goku-thumbs-up.gif"  />
+</div>
+
+###
